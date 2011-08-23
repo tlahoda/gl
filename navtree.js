@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "SDL++", "index.html", [
+  [ "gl", "index.html", [
     [ "Class List", "annotated.html", [
       [ "gl::LineLoop", "structgl_1_1LineLoop.html", null ],
       [ "gl::Lines", "structgl_1_1Lines.html", null ],
